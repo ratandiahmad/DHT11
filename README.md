@@ -1,7 +1,5 @@
 ---
-
 # 📝 CATATAN MENJALANKAN ULANG PROYEK
-
 *(Tanpa instalasi ulang)*
 
 ---
