@@ -1,5 +1,5 @@
----
-# CATATAN MENJALANKAN ULANG PROYEK
+## 📝 CATATAN MENJALANKAN ULANG PROYEK
+
 *(Tanpa instalasi ulang)*
 
 ---
@@ -174,9 +174,4 @@ cd ~/Documents/Iot/sensor/dht-anomaly
 mvn exec:java -Dexec.mainClass="AnomalyDetector"
 ```
 
-
-## ✅ STATUS AKHIR
-* 🚀 Menjalankan ulang: ✅ siap
-* 🎓 Demo / kumpul tugas: ✅ aman
-
-Tinggal bilang mau yang mana 👍
+---
