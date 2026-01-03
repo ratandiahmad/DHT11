@@ -1,7 +1,3 @@
-Siap 👍
-Berikut saya buatkan **CATATAN RINGKAS / CHEAT SHEET** khusus untuk **MENJALANKAN ULANG PROYEK** kamu **TANPA instalasi ulang**.
-Anggap ini **panduan pribadi** yang bisa kamu buka kapan saja sebelum demo / praktikum / ujian.
-
 ---
 
 # 📝 CATATAN MENJALANKAN ULANG PROYEK
@@ -180,25 +176,9 @@ cd ~/Documents/Iot/sensor/dht-anomaly
 mvn exec:java -Dexec.mainClass="AnomalyDetector"
 ```
 
----
-
-## 📝 KALIMAT PENJELASAN (UNTUK DOSEN)
-
-> Untuk menjalankan ulang sistem, MQTT broker diaktifkan terlebih dahulu, kemudian script Python dijalankan untuk membaca sensor DHT11 dan mengirimkan data ke ThingSpeak serta MQTT. Setelah itu aplikasi Java dijalankan sebagai subscriber untuk mendeteksi dan mengirimkan data anomali.
-
----
 
 ## ✅ STATUS AKHIR
-
-* 📦 Instalasi: ❌ tidak perlu ulang
 * 🚀 Menjalankan ulang: ✅ siap
 * 🎓 Demo / kumpul tugas: ✅ aman
-
-Kalau mau, saya bisa:
-
-* 📄 Buatkan **versi PDF / 1 halaman**
-* 📌 Buatkan **catatan ditempel (cheat sheet A4)**
-* 🧪 Buatkan **skenario demo 3 menit**
-* 🎤 Simulasikan **tanya-jawab dosen**
 
 Tinggal bilang mau yang mana 👍
